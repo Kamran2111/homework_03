@@ -1,0 +1,165 @@
+.box-support {
+  padding: 24px 42px 24px 42px;
+}
+ul {
+  list-style: none;
+  font-size: 17px;
+  position: relative;
+  left: 1200px;
+  bottom: 47px;
+  font-weight: 400;
+  line-height: 27px;
+}
+header {
+  margin-top: 42px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+}
+.p {
+  display: block;
+  margin-top: 10px;
+}
+.btn {
+  margin-top: 48px;
+  background-color: #2d2d2d;
+  color: white;
+  padding: 24px 64px 24px 64px;
+}
+.item {
+  margin-top: 42px;
+  position: relative;
+  left: 40px;
+}
+.visual {
+  position: relative;
+  left: 40px;
+}
+.latest {
+  font-weight: 900;
+  line-height: 42px;
+  position: relative;
+  left: 620px;
+  bottom: 300px;
+}
+
+.test {
+  position: relative;
+  left: 700px;
+  bottom: -1000px;
+}
+.about-us {
+  display: flex;
+  gap: 24px;
+}
+.box_branding {
+  min-width: 320px;
+  max-width: 620px;
+  margin: 42px 68px 42px 24px;
+  padding: 42px 24px 42px 24px;
+}
+.container.btn {
+  margin: 48px;
+}
+.box_pictures {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.box-companies {
+  width: 1144px;
+  height: 46.8px;
+  padding: 42px 68px 42px 68px;
+  display: flex;
+  justify-content: space-between;
+}
+.box-design-cards {
+  margin: 42px;
+  display: flex;
+  justify-content: space-around;
+  align-self: stretch;
+  padding: 64px 42px 64px 42px;
+  gap: 42px;
+}
+.product-design {
+  width: 310px;
+  height: 81px;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.visual-design {
+  width: 310px;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.art-direction {
+  width: 310px;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.box-latest-work {
+  width: 1580px;
+  height: 1030px;
+  display: flex;
+  padding: 42px 24px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 42px;
+}
+.head-latest-work {
+  display: flex;
+  justify-content: center;
+}
+.box-comments-Testimonial {
+  margin: 42px 24px 42px 24px;
+  width: 1480px;
+  height: 352px;
+  display: flex;
+  padding: 42px 42px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 42px;
+}
+.user-comments {
+  width: 340px;
+  height: 190px;
+}
+.head-Testimonial {
+  display: flex;
+  justify-content: center;
+}
+.text {
+  font-size: 17px;
+  width: 470px;
+  height: 81px;
+}
+.social-links {
+  display: flex;
+  gap: 24px;
+}
+.box-contact {
+  display: flex;
+  justify-content: flex-end;
+}
+.name-text {
+  min-width: 320px;
+  max-width: 520px;
+  padding: 16px 24px;
+  gap: 10px;
+}
+.email-text {
+  min-width: 320px;
+  max-width: 520px;
+  padding: 16px 24px;
+  gap: 10px;
+}
+.section__footer {
+  padding: 42px 24px 86px 24px;
+  margin: 42px;
+}
